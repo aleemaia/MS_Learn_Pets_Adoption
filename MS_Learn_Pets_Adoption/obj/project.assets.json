@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption.csproj",
+      "projectUniqueName": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption.csproj",
       "projectName": "MS_Learn_Pets_Adoption",
-      "projectPath": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption.csproj",
+      "projectPath": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\obj\\",
+      "outputPath": "G:\\Cursos\\Microsoft Learn\\MS_Learn_Pets_Adoption\\MS_Learn_Pets_Adoption\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
